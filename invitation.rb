@@ -1,3 +1,5 @@
-# Code your prompts here!
+puts "Hello! What is your name?"
+guest_name = gets.strip
+puts "Hello #{guest_name}"
 
-# Try starting out with puts'ing a string.
+
